@@ -1,4 +1,4 @@
-query CharacterList {
+query CharactersList {
     characters {
         results {
             id
