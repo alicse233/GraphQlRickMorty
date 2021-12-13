@@ -1,4 +1,4 @@
-package com.example.graphqlrickmorty
+package com.example.graphqlrickmorty.base
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

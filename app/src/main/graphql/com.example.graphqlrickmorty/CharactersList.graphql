@@ -4,6 +4,7 @@ query CharactersList {
             id
             name
             species
+            image
         }
     }
 }       
